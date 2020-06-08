@@ -1,0 +1,10 @@
+ILMerge :
+https://www.inogic.com/blog/2018/06/automate-ilmerge-for-workflowsplugins-to-merge-multiple-assemblies-into-one-in-dynamics-365/
+
+
+Virtual Entity : 
+
+https://dynamicsninja.blog/2018/11/13/virtual-entities-part-3-custom-data-provider/
+https://www.c-sharpcorner.com/article/dynamics-365-introduction-to-virtual-entity/
+https://www.thrives.be/dynamics-365-ce/custom-virtual-entity-provider-data-source-configuration/
+https://jlattimer.blogspot.com/2017/12/creating-custom-virtual-entity-data.html
